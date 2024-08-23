@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todoreact.github.io/static/css/main.63094414.css",
+    "main.js": "/todoreact.github.io/static/js/main.0a4be834.js",
+    "static/media/icon-add.png": "/todoreact.github.io/static/media/icon-add.6f16574f79805afcc04b.png",
+    "index.html": "/todoreact.github.io/index.html",
+    "main.63094414.css.map": "/todoreact.github.io/static/css/main.63094414.css.map",
+    "main.0a4be834.js.map": "/todoreact.github.io/static/js/main.0a4be834.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63094414.css",
+    "static/js/main.0a4be834.js"
+  ]
+}
